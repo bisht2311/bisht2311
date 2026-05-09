@@ -6,7 +6,7 @@
 
 ## About Me
 
-Associate Cloud Virtualization Engineer at HCLTech with hands-on experience in Citrix CVAD, virtual apps/desktops, and troubleshooting across on-prem and cloud environments. Strong foundation in Linux, networking, and incident resolution.
+Associate Cloud Virtualization Engineer with hands-on experience in Citrix CVAD | DAAS | SPA, Virtual Apps/Desktops, and troubleshooting across on-prem and cloud environments. Strong foundation in Linux, networking, and incident resolution.
 
 Currently transitioning into Cloud & DevOps Engineering, focusing on practical skills in AWS, Docker, Kubernetes, Terraform, and CI/CD. Actively working on real-world projects involving automation, containerized applications, and cloud infrastructure.
 
@@ -23,7 +23,7 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 - **Infrastructure as Code:** Terraform
 - **CI/CD & Automation:** Jenkins, GitHub Actions
 - **Version Control:** Git, GitHub
-- **Core Concepts:** Networking, Troubleshooting 
+- **Foundation** Networking Fundamentals, Troubleshooting
 
 ---
 
