@@ -38,6 +38,14 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 - Reusable CI/CD jobs for build and test automation
 - Scheduled health checks for continuous application monitoring
 
+### 3-Tier Dockerized Application
+**Repository:** [Application Dockerization](https://github.com/bisht2311/application-dockerization) 
+**Tech Stack:** Docker, Docker Compose, Node.js, Express.js, PostgreSQL, Redis, YAML
+- Containerized a 3-tier application using Docker and Docker Compose, integrating a Node.js/Express backend, PostgreSQL database, and Redis caching service.
+- Configured Docker networking and service communication to enable reliable connectivity between application, database, and cache containers.
+- Implemented persistent storage, environment-based configuration, and health checks to improve data reliability and container management.
+- Used Docker Compose to orchestrate multi-container services, manage dependencies, and simplify application deployment.
+
 ---
 
 ## Connect with Me
