@@ -19,11 +19,23 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 ## Skills & Tools
 - **Operating Systems & Scripting:** Linux, Bash
 - **Cloud & Virtualization:** AWS, Citrix CVAD, DaaS
-- **Containers & Orchestration:** Docker, Kubernetes
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
 - **Infrastructure as Code:** Terraform
 - **CI/CD & Automation:** Jenkins, GitHub Actions
 - **Version Control:** Git, GitHub
 - **Foundation** Networking Fundamentals, Troubleshooting
+
+---
+
+## Project
+### Secure DevSecOps GitHub Actions CI/CD Pipeline for Python App
+**Repository:** [GitHub Actions Capstone](https://github.com/bisht2311/githubActions-capstone)  
+**Tech Stack:** GitHub Actions • Docker • Trivy • Python
+- Automated CI/CD workflows using GitHub Actions (PR validation + main branch pipeline)
+- Shift-Left security with early vulnerability detection
+- Trivy-based security scanning for dependencies and container images
+- Dockerized application
+- Reusable CI/CD jobs for build and test automation
 
 ---
 
