@@ -12,7 +12,7 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 
 ---
 
-## I am currently working on [90 Days of DevOps challenge](https://github.com/bisht2311/90DaysOfDevOps/tree/master/2026)
+### I am currently working on [90 Days of DevOps challenge](https://github.com/bisht2311/90DaysOfDevOps/tree/master/2026)
 
 ---
 
@@ -39,21 +39,25 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 
 ---
 
+## 💼 Experience
+| Role                                       | Company  | Period             |
+|--------------------------------------------|----------|--------------------|
+| **Associate Cloud Virtualization Engineer** | HCL Tech | Nov 2024 – Current |
+
+---
+
 ## Skills & Tools
 
 ### Cloud & Infrastructure
-
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
 ### Containers & DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
 
 ### Operating Systems & Version Control
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
