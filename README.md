@@ -38,6 +38,8 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 - Reusable CI/CD jobs for build and test automation
 - Scheduled health checks for continuous application monitoring
 
+---
+
 ### 3-Tier Dockerized Application
 **Repository:** [Application Dockerization](https://github.com/bisht2311/application-dockerization) 
 **Tech Stack:** Docker, Docker Compose, Node.js, Express.js, PostgreSQL, Redis, YAML
