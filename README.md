@@ -16,17 +16,6 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 
 ---
 
-## Skills & Tools
-- **Operating Systems & Scripting:** Linux, Bash
-- **Cloud & Virtualization:** AWS, Citrix CVAD, DaaS
-- **Containers & Orchestration:** Docker, Kubernetes, Helm
-- **Infrastructure as Code:** Terraform
-- **CI/CD & Automation:** Jenkins, GitHub Actions
-- **Version Control:** Git, GitHub
-- **Foundation** Networking Fundamentals, Troubleshooting
-
----
-
 ## Featured Projects
 ### Secure DevSecOps CI/CD Pipeline for Python-Flask App
 **Repository:** [GitHub Actions Capstone](https://github.com/bisht2311/githubActions-capstone)  
@@ -47,6 +36,28 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 - Configured Docker networking and service communication to enable reliable connectivity between application, database, and cache containers.
 - Implemented persistent storage, environment-based configuration, and health checks to improve data reliability and container management.
 - Used Docker Compose to orchestrate multi-container services, manage dependencies, and simplify application deployment.
+
+---
+
+## Skills & Tools
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+
+### Containers & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=flat-square&logo=github-actions&logoColor=white)
+
+### Operating Systems & Version Control
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
