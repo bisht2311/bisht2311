@@ -27,8 +27,8 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 
 ---
 
-## Project
-### Secure DevSecOps GitHub Actions CI/CD Pipeline for Python App
+## Featured Projects
+### Secure DevSecOps CI/CD Pipeline for Python-Flask App
 **Repository:** [GitHub Actions Capstone](https://github.com/bisht2311/githubActions-capstone)  
 **Tech Stack:** GitHub Actions • Docker • Trivy • Python
 - Automated CI/CD workflows using GitHub Actions (PR validation + main branch pipeline)
@@ -36,6 +36,7 @@ Currently transitioning into Cloud & DevOps Engineering, focusing on practical s
 - Trivy-based security scanning for dependencies and container images
 - Dockerized application
 - Reusable CI/CD jobs for build and test automation
+- Scheduled health checks for continuous application monitoring
 
 ---
 
