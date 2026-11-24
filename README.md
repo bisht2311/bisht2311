@@ -10,13 +10,22 @@ Associate Cloud Virtualization Engineer with hands-on experience in Citrix CVAD 
 
 Currently transitioning into Cloud & DevOps Engineering, focusing on practical skills in AWS, Docker, Kubernetes, Terraform, and CI/CD. Actively working on real-world projects involving automation, containerized applications, and cloud infrastructure.
 
----
-
-### I am currently working on [90 Days of DevOps challenge](https://github.com/bisht2311/90DaysOfDevOps/tree/master/2026)
+#### I am currently working on [90 Days of DevOps challenge](https://github.com/bisht2311/90DaysOfDevOps/tree/master/2026)
 
 ---
 
 ## Featured Projects
+
+
+### Terraform Capstone – Multi-Environment AWS Infrastructure
+**Repository:** [Terraform Capstone](https://github.com/bisht2311/terraform-capestone)  
+**Tech Stack:** Terraform • AWS • Infrastructure as Code (IaC) • HCL
+- Designed and provisioned multi-environment AWS infrastructure using Terraform Workspaces to manage **Development, Staging, and Production** environments through a single codebase.
+- Implemented reusable custom Terraform modules for VPC, Security Groups, and EC2 instances, following a modular Infrastructure as Code architecture.
+- Automated resource configuration using input variables, local values, data sources, and dynamic blocks.
+- Established module-level dependencies through input and output values, enabling structured resource provisioning without hardcoded resource IDs.
+- Applied environment-specific configurations, resource naming conventions, and common tagging strategies for improved infrastructure consistency and maintainability.
+
 ### Secure DevSecOps CI/CD Pipeline for Python-Flask App
 **Repository:** [GitHub Actions Capstone](https://github.com/bisht2311/githubActions-capstone)  
 **Tech Stack:** GitHub Actions • Docker • Trivy • Python
